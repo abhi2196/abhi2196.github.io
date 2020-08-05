@@ -3,3 +3,6 @@ __pycache__/
 
 # Output directories
 output
+
+# Mac OS files
+.DS_Store
